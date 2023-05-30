@@ -2,6 +2,8 @@ https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-e
   out=StableDiffusion/v1-5-pruned-emaonly.ckpt
 https://huggingface.co/darkstorm2150/Protogen_Infinity_Official_Release/resolve/main/model.ckpt
   out=StableDiffusion/protogen_Infinity.ckpt
+https://huggingface.co/darkstorm2150/OpenGen/resolve/main/OpenGen%20v1.0-no-ema-fp16.safetensors
+  out=StableDiffusion/OpenGen-pruned-fp16.safetensors
 https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.ckpt
   out=VAE/vae-ft-mse-840000-ema-pruned.ckpt
 https://huggingface.co/runwayml/stable-diffusion-inpainting/resolve/main/sd-v1-5-inpainting.ckpt
